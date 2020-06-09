@@ -1,0 +1,2 @@
+C:\Users\simon\Desktop\Mega\Google Drive\Projekty\C++\Tetris\Debug\Tetris.exe
+C:\Users\simon\Desktop\Mega\Google Drive\Projekty\C++\Tetris\Debug\Tetris.pdb
